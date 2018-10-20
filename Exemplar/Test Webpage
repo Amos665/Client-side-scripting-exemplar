@@ -1,0 +1,11 @@
+<DOCTYPE! html>
+<html>
+<title>My Webpage</title>
+<h1>Welcome</h1>
+<h2>This is the exemplar webpage </h2>
+<body>
+  <li>During this project, you will create your own webpage template
+that you could plug in a client's information to spec</li>
+  <li>This is something that you would keep as a portfolio item</li>
+</body>
+</html>
